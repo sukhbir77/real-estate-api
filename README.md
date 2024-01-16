@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# RealtyHub - React Real Estate Website
+
+Welcome to RealtyHub, an immersive real estate website developed with React, JavaScript, and seamlessly integrated with the Real Estate API. Explore properties, get detailed insights, and find your dream home effortlessly.
+
+## Project Overview
+
+RealtyHub is your ultimate destination for real estate exploration, offering a sleek and intuitive interface to search for properties, gather information, and make informed decisions. Developed with React and JavaScript, this website seamlessly connects with the Real Estate API, providing a comprehensive and up-to-date real estate database.
+
+## Key Features
+
+- **React Framework:** Built with React for a dynamic and responsive user interface.
+- **JavaScript Logic:** Utilizes JavaScript for interactive functionalities and seamless user experiences.
+- **Real Estate API Integration:** Connects with the Real Estate API to access a diverse listing of properties, including details and images.
+
+## Real Estate Website Features
+
+- **Property Search:** Easily search for properties based on location, type, price range, and other customizable filters.
+- **Detailed Property Listings:** Get comprehensive details for each property, including images, specifications, and contact information.
+- **Favorites and Saved Searches:** Save your favorite properties and set up alerts for new listings matching your criteria.
+- **Mortgage Calculator:** Estimate mortgage costs directly on the platform, aiding in financial planning.
+- **User Authentication:** Securely sign in to save preferences, track favorite properties, and receive personalized recommendations.
 
 ## Getting Started
 
-First, run the development server:
+1. **Clone the repository:**
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+   ```bash
+   git clone https://github.com/sukhbir77/real_estate_api.git
