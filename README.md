@@ -25,4 +25,4 @@ RealtyHub is your ultimate destination for real estate exploration, offering a s
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sukhbir77/real_estate_api.git
+   git clone https://github.com/sukhbir77/real-estate-api.git
